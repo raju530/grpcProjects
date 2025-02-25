@@ -6,6 +6,10 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+
+/*
+    * service impl for processing integer list
+*/
 @Service
 public class IntegerDataProcessor implements DataProcessor<Integer> {
 
